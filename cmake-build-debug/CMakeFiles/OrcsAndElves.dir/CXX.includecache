@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Wridzer/CLionProjects/OrcsAndElves/Elf.h
+NPC.h
+C:/Users/Wridzer/CLionProjects/OrcsAndElves/NPC.h
+
+C:/Users/Wridzer/CLionProjects/OrcsAndElves/NPC.h
+iostream
+-
+string
+-
+
+C:/Users/Wridzer/CLionProjects/OrcsAndElves/Orc.h
+NPC.h
+C:/Users/Wridzer/CLionProjects/OrcsAndElves/NPC.h
+
+C:/Users/Wridzer/CLionProjects/OrcsAndElves/main.cpp
+iostream
+-
+string
+-
+NPC.h
+C:/Users/Wridzer/CLionProjects/OrcsAndElves/NPC.h
+Elf.h
+C:/Users/Wridzer/CLionProjects/OrcsAndElves/Elf.h
+Orc.h
+C:/Users/Wridzer/CLionProjects/OrcsAndElves/Orc.h
+
