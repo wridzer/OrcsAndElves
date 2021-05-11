@@ -6,12 +6,15 @@
 
 #include "NPC.h"
 #include <string>
+#include <iostream>
 
 class Orc : public NPC{
 public:
-    Orc(std::string charName, int charStrength, std::string favoriteAnimal) : NPC(charName, charStrength) {};
+    Orc(std::string _charName, int _charStrength, std::string _favoriteAnimal);
 
     std::string getAnimal();
     std::string animal;
+    std::string name;
+    int strength;
 };
 

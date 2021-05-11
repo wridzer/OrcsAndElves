@@ -3,18 +3,18 @@
 //
 
 #include "NPC.h"
-NPC::NPC(std::string charName, int charStrength) {
-    NPC::name = charName;
-    NPC::strength = charStrength;
+NPC::NPC(std::string _charName, int _charStrength) {
+    name = _charName;
+    strength = _charStrength;
 }
 
 NPC::~NPC() {}
 
 std::string NPC::getName() {
 
-    return NPC::name;
+    return name;
 }
 int NPC::getStrength() {
 
-    return NPC::strength;
+    return strength;
 }

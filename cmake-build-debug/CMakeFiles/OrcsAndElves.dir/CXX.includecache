@@ -9,6 +9,8 @@
 C:/Users/Wridzer/CLionProjects/OrcsAndElves/Elf.h
 NPC.h
 C:/Users/Wridzer/CLionProjects/OrcsAndElves/NPC.h
+string
+-
 
 C:/Users/Wridzer/CLionProjects/OrcsAndElves/NPC.h
 iostream
@@ -19,6 +21,10 @@ string
 C:/Users/Wridzer/CLionProjects/OrcsAndElves/Orc.h
 NPC.h
 C:/Users/Wridzer/CLionProjects/OrcsAndElves/NPC.h
+string
+-
+iostream
+-
 
 C:/Users/Wridzer/CLionProjects/OrcsAndElves/main.cpp
 iostream

@@ -8,7 +8,7 @@
 
 class NPC {
 public:
-    NPC(std::string charName, int charStrength);
+    NPC(std::string _charName, int _charStrength);
     ~NPC();
 
     int getStrength();
