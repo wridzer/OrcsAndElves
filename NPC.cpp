@@ -9,7 +9,9 @@ NPC::NPC(std::string _charName, int _charStrength) {
     strength = _charStrength;
 }
 
-NPC::~NPC() {}
+NPC::~NPC() {
+    delete inventory;
+}
 
 std::string NPC::getName() {
 
