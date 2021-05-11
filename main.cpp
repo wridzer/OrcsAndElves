@@ -8,11 +8,10 @@ using namespace std;
 
 int main() {
     std::cout << "Starting" << std::endl;
-    Orc* orc = new Orc("Bob", 80);
+    Orc* orc = new Orc("Bob", 80, "Dog");
     Elf* elf = new Elf("Henry", 30);
-    cout << "Orc name is: " << orc->getName() << ", Strength is: " << orc->getStrength() << endl;
+    cout << "Orc name is: " << orc->getName() << ". Strength is: " << orc->getStrength() << ". Favorite animal is: " << orc->getAnimal() << endl;
     cout << "Elf name is: " << elf->getName() << ", Strength is: " << elf->getStrength() << endl;
-
 
     delete orc;
     delete elf;

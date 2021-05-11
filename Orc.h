@@ -5,9 +5,13 @@
 #pragma once
 
 #include "NPC.h"
+#include <string>
 
 class Orc : public NPC{
 public:
-    Orc(std::string charName, int charStrength) : NPC(charName, charStrength) {};
+    Orc(std::string charName, int charStrength, std::string favoriteAnimal) : NPC(charName, charStrength) {};
+
+    std::string getAnimal();
+    std::string animal;
 };
 
