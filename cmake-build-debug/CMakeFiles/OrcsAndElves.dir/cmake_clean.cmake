@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/OrcsAndElves.dir/Elf.cpp.obj"
+  "CMakeFiles/OrcsAndElves.dir/Inventory.cpp.obj"
   "CMakeFiles/OrcsAndElves.dir/NPC.cpp.obj"
   "CMakeFiles/OrcsAndElves.dir/Orc.cpp.obj"
   "CMakeFiles/OrcsAndElves.dir/main.cpp.obj"

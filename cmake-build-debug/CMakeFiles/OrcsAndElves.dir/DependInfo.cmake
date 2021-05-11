@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Wridzer/CLionProjects/OrcsAndElves/Elf.cpp" "C:/Users/Wridzer/CLionProjects/OrcsAndElves/cmake-build-debug/CMakeFiles/OrcsAndElves.dir/Elf.cpp.obj"
+  "C:/Users/Wridzer/CLionProjects/OrcsAndElves/Inventory.cpp" "C:/Users/Wridzer/CLionProjects/OrcsAndElves/cmake-build-debug/CMakeFiles/OrcsAndElves.dir/Inventory.cpp.obj"
   "C:/Users/Wridzer/CLionProjects/OrcsAndElves/NPC.cpp" "C:/Users/Wridzer/CLionProjects/OrcsAndElves/cmake-build-debug/CMakeFiles/OrcsAndElves.dir/NPC.cpp.obj"
   "C:/Users/Wridzer/CLionProjects/OrcsAndElves/Orc.cpp" "C:/Users/Wridzer/CLionProjects/OrcsAndElves/cmake-build-debug/CMakeFiles/OrcsAndElves.dir/Orc.cpp.obj"
   "C:/Users/Wridzer/CLionProjects/OrcsAndElves/main.cpp" "C:/Users/Wridzer/CLionProjects/OrcsAndElves/cmake-build-debug/CMakeFiles/OrcsAndElves.dir/main.cpp.obj"

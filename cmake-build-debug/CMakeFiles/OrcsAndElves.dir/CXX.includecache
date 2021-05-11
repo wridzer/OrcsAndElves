@@ -6,35 +6,21 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Wridzer/CLionProjects/OrcsAndElves/Elf.h
-NPC.h
-C:/Users/Wridzer/CLionProjects/OrcsAndElves/NPC.h
+C:/Users/Wridzer/CLionProjects/OrcsAndElves/Inventory.h
+vector
+-
 string
 -
+
+C:/Users/Wridzer/CLionProjects/OrcsAndElves/NPC.cpp
+NPC.h
+C:/Users/Wridzer/CLionProjects/OrcsAndElves/NPC.h
 
 C:/Users/Wridzer/CLionProjects/OrcsAndElves/NPC.h
 iostream
 -
 string
 -
-
-C:/Users/Wridzer/CLionProjects/OrcsAndElves/Orc.h
-NPC.h
-C:/Users/Wridzer/CLionProjects/OrcsAndElves/NPC.h
-string
--
-iostream
--
-
-C:/Users/Wridzer/CLionProjects/OrcsAndElves/main.cpp
-iostream
--
-string
--
-NPC.h
-C:/Users/Wridzer/CLionProjects/OrcsAndElves/NPC.h
-Elf.h
-C:/Users/Wridzer/CLionProjects/OrcsAndElves/Elf.h
-Orc.h
-C:/Users/Wridzer/CLionProjects/OrcsAndElves/Orc.h
+Inventory.h
+C:/Users/Wridzer/CLionProjects/OrcsAndElves/Inventory.h
 

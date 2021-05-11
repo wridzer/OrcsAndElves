@@ -153,6 +153,33 @@ Elf.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OrcsAndElves.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\OrcsAndElves.dir\Elf.cpp.s
 .PHONY : Elf.cpp.s
 
+Inventory.obj: Inventory.cpp.obj
+
+.PHONY : Inventory.obj
+
+# target to build an object file
+Inventory.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OrcsAndElves.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\OrcsAndElves.dir\Inventory.cpp.obj
+.PHONY : Inventory.cpp.obj
+
+Inventory.i: Inventory.cpp.i
+
+.PHONY : Inventory.i
+
+# target to preprocess a source file
+Inventory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OrcsAndElves.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\OrcsAndElves.dir\Inventory.cpp.i
+.PHONY : Inventory.cpp.i
+
+Inventory.s: Inventory.cpp.s
+
+.PHONY : Inventory.s
+
+# target to generate assembly for a file
+Inventory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OrcsAndElves.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\OrcsAndElves.dir\Inventory.cpp.s
+.PHONY : Inventory.cpp.s
+
 NPC.obj: NPC.cpp.obj
 
 .PHONY : NPC.obj
@@ -246,6 +273,9 @@ help:
 	@echo ... Elf.obj
 	@echo ... Elf.i
 	@echo ... Elf.s
+	@echo ... Inventory.obj
+	@echo ... Inventory.i
+	@echo ... Inventory.s
 	@echo ... NPC.obj
 	@echo ... NPC.i
 	@echo ... NPC.s

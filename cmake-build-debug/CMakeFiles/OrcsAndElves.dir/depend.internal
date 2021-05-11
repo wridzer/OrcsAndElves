@@ -4,16 +4,23 @@
 CMakeFiles/OrcsAndElves.dir/Elf.cpp.obj
  C:/Users/Wridzer/CLionProjects/OrcsAndElves/Elf.cpp
  C:/Users/Wridzer/CLionProjects/OrcsAndElves/Elf.h
+ C:/Users/Wridzer/CLionProjects/OrcsAndElves/Inventory.h
  C:/Users/Wridzer/CLionProjects/OrcsAndElves/NPC.h
+CMakeFiles/OrcsAndElves.dir/Inventory.cpp.obj
+ C:/Users/Wridzer/CLionProjects/OrcsAndElves/Inventory.cpp
+ C:/Users/Wridzer/CLionProjects/OrcsAndElves/Inventory.h
 CMakeFiles/OrcsAndElves.dir/NPC.cpp.obj
+ C:/Users/Wridzer/CLionProjects/OrcsAndElves/Inventory.h
  C:/Users/Wridzer/CLionProjects/OrcsAndElves/NPC.cpp
  C:/Users/Wridzer/CLionProjects/OrcsAndElves/NPC.h
 CMakeFiles/OrcsAndElves.dir/Orc.cpp.obj
+ C:/Users/Wridzer/CLionProjects/OrcsAndElves/Inventory.h
  C:/Users/Wridzer/CLionProjects/OrcsAndElves/NPC.h
  C:/Users/Wridzer/CLionProjects/OrcsAndElves/Orc.cpp
  C:/Users/Wridzer/CLionProjects/OrcsAndElves/Orc.h
 CMakeFiles/OrcsAndElves.dir/main.cpp.obj
  C:/Users/Wridzer/CLionProjects/OrcsAndElves/Elf.h
+ C:/Users/Wridzer/CLionProjects/OrcsAndElves/Inventory.h
  C:/Users/Wridzer/CLionProjects/OrcsAndElves/NPC.h
  C:/Users/Wridzer/CLionProjects/OrcsAndElves/Orc.h
  C:/Users/Wridzer/CLionProjects/OrcsAndElves/main.cpp

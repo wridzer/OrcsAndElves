@@ -3,6 +3,7 @@
 //
 
 #include "NPC.h"
+
 NPC::NPC(std::string _charName, int _charStrength) {
     name = _charName;
     strength = _charStrength;
@@ -17,4 +18,15 @@ std::string NPC::getName() {
 int NPC::getStrength() {
 
     return strength;
+}
+
+void NPC::SetInventory(std::string item) {
+    inventory->inventory.push_back(item);
+}
+
+void NPC::GetInventory() {
+    std::cout << name << "'s inventory: " << std::endl;
+    for (std::string i : inventory->inventory){
+        std::cout << i << std::endl;
+    }
 }

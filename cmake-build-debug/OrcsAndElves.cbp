@@ -90,6 +90,12 @@
 		<Unit filename="C:/Users/Wridzer/CLionProjects/OrcsAndElves/Elf.h">
 			<Option target="OrcsAndElves"/>
 		</Unit>
+		<Unit filename="C:/Users/Wridzer/CLionProjects/OrcsAndElves/Inventory.cpp">
+			<Option target="OrcsAndElves"/>
+		</Unit>
+		<Unit filename="C:/Users/Wridzer/CLionProjects/OrcsAndElves/Inventory.h">
+			<Option target="OrcsAndElves"/>
+		</Unit>
 		<Unit filename="C:/Users/Wridzer/CLionProjects/OrcsAndElves/NPC.cpp">
 			<Option target="OrcsAndElves"/>
 		</Unit>
